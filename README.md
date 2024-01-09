@@ -1,10 +1,10 @@
-Hi 👋 My name is Chayodom Heha
+Hi 👋 My name is CAP (Chayodom Heha)
 ==============================
 
 DS, ML and AI
 -------------
 
-Fresh graduate in Computer Engineering. I'm interested in Data Science, AI and Machine Learning.
+I'm interested in Data Science, AI and Machine Learning.
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🧠  I'm learning Web Dev and Object Detection
@@ -29,20 +29,13 @@ Fresh graduate in Computer Engineering. I'm interested in Data Science, AI and M
 
 <p align="left"> <a href="https://www.github.com/tzsoulcap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chayodom-heha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@tzsoulcap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Stats
 
 <b>My GitHub Stats</b>
 
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tzsoulcap&show_icons=true&theme=merko" />
+<a  href="https://github.com/tzsoulcap">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tzsoulcap&show_icons=true&theme=merko&rank_icon=github" />
 </a>
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tzsoulcap&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/tzsoulcap">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tzsoulcap&layout=compact&langs_count=8&card_width=455&bg_color=000000&text_color=ffffff" />
 </a>
