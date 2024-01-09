@@ -33,6 +33,6 @@ Fresh graduate in Computer Engineering. I'm interested in Data Science, AI and M
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/tzsoulcap"><img src="https://github-readme-stats.vercel.app/api?username=tzsoulcap&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tzsoulcap's GitHub stats" /></a>
+![Cap's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <a href="https://github.com/tzsoulcap" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzsoulcap&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
